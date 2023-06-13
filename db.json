@@ -1,14 +1,21 @@
 {
-    "posts": [
-    {
-        "id": 1,
-        "title": "Post 1"
-    },
-    {
-        "id": 2,
-        "title": "Post 2"
-    },
-    {
-        "id": 3,
-        "title": "Post 3"
-    }
+    "id_vendor": 1,
+    "nama_vendor": "VendorSatu",
+    "id_barang": 1,
+    "nama_barang": "Linnmon",
+    "jumlah_barang": 1000
+},
+{
+    "id_vendor": 2,
+    "nama_vendor": "VendorDua",
+    "id_barang": 2,
+    "nama_barang": "lampu aesthetic",
+    "jumlah_barang": 1000
+},
+{
+    "id_vendor": 3,
+    "nama_vendor": "VendorTiga",
+    "id_barang": 3,
+    "nama_barang": "kursi gaming",
+    "jumlah_barang": 1000
+}
